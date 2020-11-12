@@ -1,3 +1,5 @@
+#this program creates text file , This program have basic features 
+#in first space fill filename,in textarea write its content
 import tkinter
 import os
 
